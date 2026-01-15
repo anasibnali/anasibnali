@@ -1,4 +1,4 @@
-<h1 align="center">Hello! I'm Anas Mahmud, I'm a Full Stack Developer.</h2>
+<h1 align="center">Hello! I'm Anas Ibne Ali, I'm a Full Stack Developer.</h2>
 
 <p align="left">I'm a Full-Stack engineer who enjoys developing scalable and dependable online applications. Also, I'm a good team player and always willing to assist my coworkers. In addition, I pick things up quickly and am always up for a challenge. <br><br>I'm looking for an opportunity to use my skills and experience to build innovative web applications that make an impact on society.</p>
 
@@ -44,20 +44,20 @@
 ## :mailbox: Reach me out
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/aanas-mahmud/">
+  <a href="https://www.linkedin.com/in/anasibnali/">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <a href="https://x.com/iamanas_mahmud">
+  <a href="https://x.com/iamanasibneali">
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
   </a>
-  <a href="https://www.facebook.com/anas.mahmud.523">
+  <a href="https://www.facebook.com/iamanasibneali">
     <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
   </a>
-  <a href="https://www.instagram.com/iamanas_mahmud/">
+  <a href="https://www.instagram.com/iamanasibneali/">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
-  <a href="https://discord.com/users/anasmahmud#4851">
+  <a href="https://discord.com/users/anasibneali">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   </a>
 </div>
